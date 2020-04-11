@@ -1,0 +1,11 @@
+C:\Users\Home\source\repos\CodeJam2020\CodeJam2020\bin\Debug\netcoreapp2.1\CodeJam2020.deps.json
+C:\Users\Home\source\repos\CodeJam2020\CodeJam2020\bin\Debug\netcoreapp2.1\CodeJam2020.runtimeconfig.json
+C:\Users\Home\source\repos\CodeJam2020\CodeJam2020\bin\Debug\netcoreapp2.1\CodeJam2020.runtimeconfig.dev.json
+C:\Users\Home\source\repos\CodeJam2020\CodeJam2020\bin\Debug\netcoreapp2.1\CodeJam2020.dll
+C:\Users\Home\source\repos\CodeJam2020\CodeJam2020\bin\Debug\netcoreapp2.1\CodeJam2020.pdb
+C:\Users\Home\source\repos\CodeJam2020\CodeJam2020\obj\Debug\netcoreapp2.1\CodeJam2020.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\CodeJam2020\CodeJam2020\obj\Debug\netcoreapp2.1\CodeJam2020.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\CodeJam2020\CodeJam2020\obj\Debug\netcoreapp2.1\CodeJam2020.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\CodeJam2020\CodeJam2020\obj\Debug\netcoreapp2.1\CodeJam2020.AssemblyInfo.cs
+C:\Users\Home\source\repos\CodeJam2020\CodeJam2020\obj\Debug\netcoreapp2.1\CodeJam2020.dll
+C:\Users\Home\source\repos\CodeJam2020\CodeJam2020\obj\Debug\netcoreapp2.1\CodeJam2020.pdb
